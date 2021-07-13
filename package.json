@@ -1,6 +1,6 @@
 {
   "name": "rechat-pdfjs-dist",
-  "version": "2.2.203",
+  "version": "2.2.204",
   "main": "build/pdf.js",
   "description": "Generic build of Mozilla's PDF.js library.",
   "keywords": [
