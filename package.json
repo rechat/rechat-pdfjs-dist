@@ -1,5 +1,5 @@
 {
-  "name": "pdfjs-dist",
+  "name": "rechat-pdfjs-dist",
   "version": "2.2.203",
   "main": "build/pdf.js",
   "description": "Generic build of Mozilla's PDF.js library.",
@@ -28,6 +28,6 @@
   "format": "amd",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mozilla/pdfjs-dist"
+    "url": "https://github.com/rechat/rechat-pdfjs-dist"
   }
 }
